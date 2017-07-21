@@ -4,7 +4,7 @@ A CLI for generate files by blueprint.
 
 ```
 npm run compile
-npm install -g "./generate-files-by-blueprint"
+npm install -g "./"
 ```
 
 ## Generators
